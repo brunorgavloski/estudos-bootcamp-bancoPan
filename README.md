@@ -7,4 +7,4 @@ Anotações sobre o bootcamp do banco Pan  sobre java
   Informações sobre markdown
 
 2. https://www.khanacademy.org
-Como muito foi sitado, a matemária é logica, logo deixo essa plataforma incrível e gratuita que utlizo para rever conceitos.
+Como muito foi citado, a matemária é logica, logo deixo essa plataforma incrível e gratuita que utlizo para rever conceitos.
