@@ -37,6 +37,10 @@ public class SistemaSmartTv {
 		}
 	
 		
-		
+		public int trocarCanal(int qualCanal) {
+			System.out.println("Digite o numero do canal: ");
+			qualCanal = scan.nextInt();
+			return canal = qualCanal;
+		}
 
 }
